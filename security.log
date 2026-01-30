@@ -1,0 +1,12 @@
+2026-01-30 22:14:41,776 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.206.247.81:5000
+2026-01-30 22:14:41,778 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-30 22:14:41,786 - werkzeug - INFO -  * Restarting with stat
+2026-01-30 22:14:43,484 - werkzeug - WARNING -  * Debugger is active!
+2026-01-30 22:14:43,492 - werkzeug - INFO -  * Debugger PIN: 123-275-925
+2026-01-30 22:17:34,015 - werkzeug - INFO -  * Detected change in 'C:\\Users\\nitin\\Desktop\\tiles_stock_app\\app.py', reloading
+2026-01-30 22:17:34,181 - werkzeug - INFO -  * Restarting with stat
+2026-01-30 22:17:35,566 - werkzeug - WARNING -  * Debugger is active!
+2026-01-30 22:17:35,572 - werkzeug - INFO -  * Debugger PIN: 123-275-925
